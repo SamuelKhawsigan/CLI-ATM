@@ -1,4 +1,8 @@
-🏧 ATM CLI Program
+# Java CLI-ATM Simulator
+
+![Java](https://img.shields.io/badge/Java-17%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![CLI](https://img.shields.io/badge/Interface-CLI-lightgrey)
 
 A simple and interactive Command Line Interface (CLI) ATM program built in Java. This application allows users to simulate basic ATM operations such as:
 
